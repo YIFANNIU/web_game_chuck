@@ -1,0 +1,5 @@
+/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/classes/debug
+/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/core-1.0-ee5c51df00aa99919a857dbcabb9d0d00c6194c4.jar
+/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.5.5-a89a0ecf89d561e4c6af0bb977b62ee283995356.jar
+/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.5.5-323ca5601c577c7c0d09eca646c3a9495fc6a252.jar
+/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/gdx-1.5.5-e42cc4a65d8d2939c194440d22c566d76fd27815.jar

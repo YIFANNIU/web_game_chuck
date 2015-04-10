@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/YIFAN/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-android/1.5.5/16bbdb750c6e557693820bbcd31dd992c0f6839f/gdx-backend-android-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="16bbdb750c6e557693820bbcd31dd992c0f6839f">
+        <dex dex="/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/gdx-backend-android-1.5.5-323ca5601c577c7c0d09eca646c3a9495fc6a252.jar" />
+    </item>
+    <item
+        jar="/Users/YIFAN/Desktop/GDX_game/core/build/libs/core-1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3d04f6f31c93345302a63f5ec36da30ee5bf25b2">
+        <dex dex="/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/core-1.0-ee5c51df00aa99919a857dbcabb9d0d00c6194c4.jar" />
+    </item>
+    <item
+        jar="/Users/YIFAN/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.5.5/9896d723afaeaae8229546119f9abffac5f8dbc7/gdx-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9896d723afaeaae8229546119f9abffac5f8dbc7">
+        <dex dex="/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/gdx-1.5.5-e42cc4a65d8d2939c194440d22c566d76fd27815.jar" />
+    </item>
+    <item
+        jar="/Users/YIFAN/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.5.5/8931a097fc80279c6b9ee695560a85c1e280c7ea/gdx-box2d-1.5.5.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="8931a097fc80279c6b9ee695560a85c1e280c7ea">
+        <dex dex="/Users/YIFAN/Desktop/GDX_game/android/build/intermediates/pre-dexed/debug/gdx-box2d-1.5.5-a89a0ecf89d561e4c6af0bb977b62ee283995356.jar" />
+    </item>
+
+</items>
